@@ -98,7 +98,7 @@ nav h1{
   height: 70px;
   position: fixed;
   top: 0px;
-  width: 100%;
+  max-width: 100%;
 }
 
 .site-nav ul{
