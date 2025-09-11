@@ -330,7 +330,9 @@ footer{
     font-size: 18px;
   }
   .grid{
-    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
     max-width: 1060px;
     margin: 0 auto;
     box-sizing: border-box;
