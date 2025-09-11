@@ -281,6 +281,9 @@ footer img{
   #welcome{
     padding-top: 30px;
   }
+  .welcome-img img{
+    padding-top: 40px;
+  }
 }
 
 @media screen and (min-width: 321px){
