@@ -278,17 +278,26 @@ footer img{
   body{
   font-size: 12px;
   }
+  #welcome{
+    padding-top: 30px;
+  }
 }
 
 @media screen and (min-width: 321px){
   body{
   font-size: 14px;
   }
+  #welcome{
+    padding-top: 25px;
+  }
 }
 /* small tablet styles */
 @media screen and (min-width: 620px){
   body{
     font-size: 16px;
+  }
+  #welcome{
+    padding-top: 10px;
   }
   .welcome-text{
   grid-column: 1/5;
