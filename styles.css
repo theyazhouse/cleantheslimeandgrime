@@ -354,6 +354,7 @@ footer{
   grid-column: 6/9;
   justify-content: flex-end;
   align-self: center;
+  padding-left: 40px;
  }
  .site-nav li{
   margin-left: 20px;
