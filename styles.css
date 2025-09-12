@@ -5,6 +5,17 @@
   --third: #66FF00;
 }
 
+.site{
+  max-height: 100dvh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  grid-template-columns: minmax(0, 1fr);
+}
+:where(body){
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
 /* reset */
 body,p,a,ul,li{
   margin: 0;
