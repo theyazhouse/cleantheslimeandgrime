@@ -221,6 +221,12 @@ nav h1{
 #skills h3{
   text-align: center;
 }
+#skills h2{
+  text-align: center;
+}
+#skills p{
+  text-align: center
+}
 #skills ul{
   margin: 40px 0;
 }
